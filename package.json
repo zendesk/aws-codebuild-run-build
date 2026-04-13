@@ -33,7 +33,7 @@
     "eslint-config-prettier": "^6.10.1",
     "husky": "^8.0.3",
     "lint-staged": "^13.2.1",
-    "mocha": "^10.1.0",
+    "mocha": "^11.7.5",
     "mocha-each": "^2.0.1",
     "prettier": "^2.0.4"
   },
